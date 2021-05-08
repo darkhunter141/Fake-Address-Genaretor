@@ -1,5 +1,4 @@
-# Fake-Address-Genaretor
-Unlimited Fake Address Generator Tool⚡
+<b> Unlimited Fake Address Generator Tool⚡<b>
 <h3><b>📸Screenshot</b></h3>
 <br>
 <img src="https://raw.githubusercontent.com/darkhunter141/Web-Hunter/main/IMG_20210506_134735.jpg">
