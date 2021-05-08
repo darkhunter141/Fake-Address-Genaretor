@@ -1,6 +1,5 @@
 <b> Unlimited Fake Address Generator Tool⚡<b>
-<h3><b>📸Screenshot</b></h3>
-<br>
+
 <h3><b>Installation : </b></h3>
 <br>
 
@@ -21,6 +20,8 @@
 ```
 pkg install python2 && git clone https://github.com/darkhunter141/Fake-Address-Genaretor && cd Fake-Address-Genaretor && python2 main
 ```
+<br>
+<h3><b>📸Screenshot</b></h3>
 <br>
 <img src="https://raw.githubusercontent.com/darkhunter141/Web-Hunter/main/IMG_20210506_134735.jpg">
 <br>
