@@ -23,7 +23,7 @@ pkg install python2 && git clone https://github.com/darkhunter141/Fake-Address-G
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="https://raw.githubusercontent.com/darkhunter141/Web-Hunter/main/IMG_20210506_134735.jpg">
+<img src="https://raw.githubusercontent.com/darkhunter141/Fake-Address-Genaretor/main/PicsArt_05-08-02.05.01.jpg">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
